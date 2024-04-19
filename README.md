@@ -9,10 +9,10 @@ This Repository consist of two **cross platform mobile applications**. For the o
 
 ## Screenshot
 ### Renter
-![](Assets/img-renter-1.png)
-![](Assets/img-renter-2.png)
-![](Assets/img-renter-3.png)
+<img src="/Assets/img-renter-1.png" width=50% height=50%>
+<img src="/Assets/img-renter-2.png" width=50% height=50%>
+<img src="/Assets/img-renter-3.png" width=50% height=50%>
 ### Owner
-![](Assets/img-owner-1.png)
-![](Assets/img-owner-2.png)
-![](Assets/img-owner-3.png)
+<img src="/Assets/img-owner-1.png" width=50% height=50%>
+<img src="/Assets/img-owner-2.png" width=50% height=50%>
+<img src="/Assets/img-owner-3.png" width=50% height=50%>
